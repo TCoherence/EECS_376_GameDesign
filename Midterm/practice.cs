@@ -1,0 +1,3 @@
+public gameobject rock = ;
+
+Start()

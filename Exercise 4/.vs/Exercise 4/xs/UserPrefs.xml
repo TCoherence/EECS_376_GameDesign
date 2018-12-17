@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{E8924F3D-70AF-D5DD-B106-571F0E6A38D2}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Code/Bomb.cs">
+    <Files>
+      <File FileName="Assets/Code/ProjectileThrower.cs" Line="154" Column="4" />
+      <File FileName="Assets/Code/Bomb.cs" Line="7" Column="30" />
+      <File FileName="Assets/Code/TargetBox.cs" Line="16" Column="46" />
+      <File FileName="Assets/Code/ScoreKeeper.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

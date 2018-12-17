@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{7543E8D5-B3ED-B00A-D6D0-D7AE006412EB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Code/Game.cs">
+    <Files>
+      <File FileName="Assets/Code/Menus/MainMenu.cs" Line="38" Column="35" />
+      <File FileName="Assets/Code/Menus/UIManager.cs" Line="53" Column="1" />
+      <File FileName="Assets/Code/Menus/PauseMenu.cs" Line="18" Column="14" />
+      <File FileName="Assets/Code/Player/SimplePhysics.cs" Line="20" Column="13" />
+      <File FileName="Assets/Code/Player/Player.cs" Line="28" Column="10" />
+      <File FileName="Assets/Code/Platform.cs" Line="12" Column="35" />
+      <File FileName="Assets/Code/Managers/PlatformManager.cs" Line="21" Column="1" />
+      <File FileName="Assets/Code/Game.cs" Line="8" Column="30" />
+      <File FileName="Assets/Code/Managers/TimeManager.cs" Line="17" Column="35" />
+      <File FileName="Assets/Code/Managers/ScoreManager.cs" Line="25" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
